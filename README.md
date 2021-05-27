@@ -14,18 +14,18 @@
 
 Here you can find the **EDA, Cleaning, Feature Engineering and Modeling** tasks I performed for this completed competition.
 
-My model achieved a private score that would have placed me **101st in the leaderboard, out of 8700 teams (top 1.15%)**, if the competition had still been running.
+My model achieved a private score that would have placed me **87th in the leaderboard, out of 924 teams (top 1.15%)**, if the competition had still been running.
 
 [My Kaggle kernels for this competition](https://www.kaggle.com/jamesngoa/code)
 
 
-[My verified score by Kaggle 0.91746](https://www.kaggle.com/jamesngoa/santander-ctp-modeling-0-917-priv-lb)
+[My verified score by Kaggle 0.91746](https://www.kaggle.com/jamesngoa/credit-scoring-feature-eng-and-prediction-0-8674)
 
 <br>
-<img src="score.png" alt="Figure 1" style="width: 400px;"/>
+<img src="2021-05-27 (3)_LI.jpg" alt="Figure 1" style="width: 400px;"/>
 <br>
 
-[*Give Me Some Credit* Private leaderboard (just after 100th with 0.91746 score)](https://www.kaggle.com/c/santander-customer-transaction-prediction/leaderboard)
+[*Give Me Some Credit* Private leaderboard (Would be just after the 86th with my model AUC score of 0.86741)](https://www.kaggle.com/c/GiveMeSomeCredit/leaderboard)
 <br>
-<img src="leaderboard.png" alt="Figure 1" style="width: 400px;"/>
+<img src="2021-05-27 (2)_LI.jpg" alt="Figure 1" style="width: 400px;"/>
 <br>
