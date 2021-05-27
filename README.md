@@ -19,13 +19,15 @@ My model achieved a private score that would have placed me **87th in the leader
 [My Kaggle kernels for this competition](https://www.kaggle.com/jamesngoa/code)
 
 
-[My verified score by Kaggle 0.91746](https://www.kaggle.com/jamesngoa/credit-scoring-feature-eng-and-prediction-0-8674)
+[My verified score by Kaggle 0.86741](https://www.kaggle.com/jamesngoa/credit-scoring-feature-eng-and-prediction-0-8674)
 
 <br>
 <img src="2021-05-27 (3)_LI.jpg" alt="Figure 1" style="width: 400px;"/>
 <br>
 
+
 [*Give Me Some Credit* Private leaderboard (Would be just after the 86th with my model AUC score of 0.86741)](https://www.kaggle.com/c/GiveMeSomeCredit/leaderboard)
+
 <br>
 <img src="2021-05-27 (2)_LI.jpg" alt="Figure 1" style="width: 400px;"/>
 <br>
