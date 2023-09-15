@@ -24,10 +24,3 @@ My model achieved a private score that would have placed me **87th in the leader
 <br>
 <img src="2021-05-27 (3)_LI.jpg" alt="Figure 1" style="width: 400px;"/>
 <br>
-
-
-[Private leaderboard of the competition *Give Me Some Credit*](https://www.kaggle.com/c/GiveMeSomeCredit/leaderboard) (Would be right after the 86th with my model AUC score of 0.86741)
-
-<br>
-<img src="2021-05-27 (2)_LI.jpg" alt="Figure 1" style="width: 400px;"/>
-<br>
